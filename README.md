@@ -2,7 +2,7 @@ this is the README
 
 another change
 
-uh oh i'm changing the same line
+new version of this line
 
 another change
 
